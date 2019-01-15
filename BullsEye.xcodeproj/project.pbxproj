@@ -58,8 +58,8 @@
 		9306A2AA21E7D40300DB4038 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
-				9306A2AB21E7D40300DB4038 /* AppDelegate.swift */,
 				936A8AA921EE8A40004BD9CA /* View Controllers */,
+				9306A2AB21E7D40300DB4038 /* AppDelegate.swift */,
 				9306A2AF21E7D40300DB4038 /* Main.storyboard */,
 				9306A2B221E7D40500DB4038 /* Assets.xcassets */,
 				9306A2B721E7D40500DB4038 /* Info.plist */,
