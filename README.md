@@ -6,6 +6,12 @@
 # bullseye
 A final working app/game, done by following Ray Wenderlich's (@raywenderlich) tutorial
 
+## Screenshots
+![XCode 10](https://i.imgur.com/yaCUfSkl.png "Main Screen in XCode")
+![First run](https://i.imgur.com/cxYCQunl.png "First run in Simulator")
+![Playing the Game](https://i.imgur.com/frpGi6Dl.png "Playing the Game")
+![Not bad!](https://i.imgur.com/o5p3IyT.gif "NOT BAD!")
+
 
 # Tutorial
 Tutorial can be found here:
