@@ -1,0 +1,3 @@
+os: osx
+language: swift
+xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
