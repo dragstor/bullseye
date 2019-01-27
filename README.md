@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/dragstor/bullseye.svg?branch=master)](https://travis-ci.org/dragstor/bullseye)
 [![](https://img.shields.io/github/forks/dragstor/bullseye.svg)](https://github.com/dragstor/bullseye/network/members)
 [![](https://img.shields.io/github/stars/dragstor/bullseye.svg)](https://github.com/dragstor/bullseye/stargazers)
 [![](https://img.shields.io/github/license/dragstor/bullseye.svg)](https://github.com/dragstor/bullseye/blob/master/LICENSE)
