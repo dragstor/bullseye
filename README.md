@@ -5,7 +5,7 @@
 [![](https://img.shields.io/twitter/url/https/github.com/dragstor/bullseye.svg?style=social)](https://twitter.com/home?status=Found%20this%20%23ios-tutorial%20at%20%40github%20https%3A//github.com/dragstor/bullseye%20%0Acc%20%40rwenderlich)
 
 # bullseye
-A final working app/game, done by following Ray Wenderlich's ( @raywenderlich ) tutorial
+A final working app/game, made by following Ray Wenderlich's ( @raywenderlich ) course on iOS app development.
 
 ## Screenshots
 ![XCode 10](https://i.imgur.com/yaCUfSkl.png "Main Screen in XCode")
