@@ -1,3 +1,5 @@
-os: osx
-language: swift
-xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
+language: objective-c
+osx_image: xcode10.1
+xcode_project: BullsEye.xcodeproj
+xcode_scheme: BullsEye
+xcode_sdk: iphonesimulator12.1
