@@ -5,7 +5,7 @@
 [![](https://img.shields.io/twitter/url/https/github.com/dragstor/bullseye.svg?style=social)](https://twitter.com/home?status=Found%20this%20%23ios-tutorial%20at%20%40github%20https%3A//github.com/dragstor/bullseye%20%0Acc%20%40rwenderlich)
 
 # bullseye
-A final working app/game, done by following Ray Wenderlich's (@raywenderlich) tutorial
+A final working app/game, done by following Ray Wenderlich's ( @raywenderlich ) tutorial
 
 ## Screenshots
 ![XCode 10](https://i.imgur.com/yaCUfSkl.png "Main Screen in XCode")
@@ -17,3 +17,10 @@ A final working app/game, done by following Ray Wenderlich's (@raywenderlich) tu
 # Tutorial
 Tutorial can be found here:
 - https://www.raywenderlich.com/5993-your-first-ios-app
+
+# Licensing & Copyrights
+This software is made by following the Ray Wenderlich's tutorial found at <https://www.raywenderlich.com/5993-your-first-ios-app>.
+
+For more information on Author's original licensing and legal rights, please refer to <https://help.raywenderlich.com/terms-of-service/#header-6>
+
+This repository contents are released under the [![](https://img.shields.io/github/license/dragstor/bullseye.svg)](https://github.com/dragstor/bullseye/blob/master/LICENSE)
